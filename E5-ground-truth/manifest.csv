@@ -1,0 +1,5 @@
+dataset,attack,file,rows,distinct_entities,subject,file_nodes,netflow,attack_window_start_US_Eastern,attack_window_end_US_Eastern
+CADETS_E5,Nginx_Drakon_APT,E5-ground-truth/CADETS/node_Nginx_Drakon_APT.csv,19,10,9,5,5,2019-05-16 09:31:00,2019-05-16 10:12:00
+CADETS_E5,Nginx_Drakon_APT_17,E5-ground-truth/CADETS/node_Nginx_Drakon_APT_17.csv,107,14,96,6,5,2019-05-17 10:15:00,2019-05-17 15:33:00
+THEIA_E5,THEIA_1_Firefox_Drakon_APT_BinFmt_Elevate_Inject,E5-ground-truth/THEIA/node_THEIA_1_Firefox_Drakon_APT_BinFmt_Elevate_Inject.csv,70,14,64,2,4,2019-05-15 14:47:00,2019-05-15 15:08:00
+TRACE_E5,Trace_Firefox_Drakon,E5-ground-truth/TRACE/node_Trace_Firefox_Drakon.csv,71,35,39,28,4,2019-05-14 10:17:00,2019-05-14 11:45:00
